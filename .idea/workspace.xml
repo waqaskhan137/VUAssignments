@@ -17,11 +17,10 @@
       <file leaf-file-name="CS101_dc190200310.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../VUAssignments/CS101_dc190200310.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            <state relative-caret-position="256">
+              <caret line="102" column="45" selection-start-line="102" selection-start-column="45" selection-end-line="102" selection-end-column="45" />
               <folding>
                 <element signature="n#select#0;n#td#1;n#tr#3;n#table#0;n#form#0;n#center#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#select#1;n#td#1;n#tr#3;n#table#0;n#form#0;n#center#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#select#2;n#td#1;n#tr#3;n#table#0;n#form#0;n#center#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
@@ -131,12 +130,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558461251897</updated>
-      <workItem from="1558461255232" duration="3968000" />
+      <workItem from="1558461255232" duration="4423000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3968000" />
+    <option name="totallyTimeSpent" value="4423000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="6" />
@@ -184,11 +183,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../VUAssignments/CS101_dc190200310.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        <state relative-caret-position="256">
+          <caret line="102" column="45" selection-start-line="102" selection-start-column="45" selection-end-line="102" selection-end-column="45" />
           <folding>
             <element signature="n#select#0;n#td#1;n#tr#3;n#table#0;n#form#0;n#center#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#select#1;n#td#1;n#tr#3;n#table#0;n#form#0;n#center#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#select#2;n#td#1;n#tr#3;n#table#0;n#form#0;n#center#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
